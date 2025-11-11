@@ -1,3 +1,5 @@
+// Desenvolvido por Gabriel Belato
+
 import java.util.Scanner;
 
 public class Calculadora {
